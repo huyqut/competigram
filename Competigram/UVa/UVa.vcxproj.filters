@@ -39,6 +39,33 @@
       <Filter>Source Files\Accepted</Filter>
     </ClCompile>
     <ClCompile Include="11727.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="10114.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="11559.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="11799.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="00573.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="10141.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="11507.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="00462.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="10646.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="12247.cpp">
       <Filter>Source Files\Solving</Filter>
     </ClCompile>
   </ItemGroup>
