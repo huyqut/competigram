@@ -84,6 +84,9 @@
       <Filter>Source Files\Accepted</Filter>
     </ClCompile>
     <ClCompile Include="11459.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="00584.cpp">
       <Filter>Source Files\Solving</Filter>
     </ClCompile>
   </ItemGroup>
