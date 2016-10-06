@@ -119,10 +119,13 @@
     <ClCompile Include="00637.cpp">
       <Filter>Source Files\Accepted</Filter>
     </ClCompile>
-    <ClCompile Include="10812.cpp">
-      <Filter>Source Files\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="00403.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="10812.cpp">
+      <Filter>Source Files\Accepted</Filter>
+    </ClCompile>
+    <ClCompile Include="00608.cpp">
       <Filter>Source Files\Solving</Filter>
     </ClCompile>
   </ItemGroup>
